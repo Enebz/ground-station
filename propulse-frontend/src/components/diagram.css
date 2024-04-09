@@ -1,0 +1,188 @@
+#diagramContainer {
+  background-image: url('../assets/diagram.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+  width: 75%;
+  margin-left: 12%;
+  display: grid; 
+  grid-template-rows: 7fr 7fr 7fr 33fr 7fr 25fr;
+  position: relative;
+  text-align: center;
+  line-height: 4vh;
+  color:black;
+}
+
+#div1 {
+  position: absolute;
+  bottom: 94.8%;
+  right: 69.38%;
+}
+
+#div2 {
+  position: absolute;
+  bottom: 94.8%;
+  right: 49.8%;
+}
+
+#div3 {
+  position: absolute;
+  bottom: 94.8%;
+  right: 11.15%;
+}
+
+#div4 {
+  height:3.95%;
+  width: 5.85%;
+  position: absolute;
+  bottom: 77.4%;
+  right: 75.35%;
+}
+
+#div5 {
+  height:3.95%;
+  width: 5.85%;
+  position: absolute;
+  bottom: 77.4%;
+  right: 59.2%;
+}
+
+#div6 {
+  position: absolute;
+  bottom: 55%;
+  right: 84%;
+}
+
+#div7 {
+  position: absolute;
+  bottom: 61%;
+  right: 47%;
+}
+
+#div8 {
+  position: absolute;
+  bottom: 50.5%;
+  right: 47%;
+}
+
+#div9 {
+  position: absolute;
+  bottom: 39.3%;
+  right: 47%;
+}
+
+#div10 {
+  position: absolute;
+  bottom: 50.5%;
+  right: 8.3%;
+}
+
+#div11 {
+  position: absolute;
+  bottom: 39%;
+  right: 8.3%;
+}
+
+#div12 {
+  position: absolute;
+  bottom: 17%;
+  right: 89%;
+}
+
+#div13 {
+  position: absolute;
+  bottom: 17%;
+  right: 72%;
+}
+
+#div14 {
+  position: absolute;
+  bottom: 5%;
+  right: 89%;
+}
+
+#div15 {
+  position: absolute;
+  bottom: 5%;
+  right: 72%;
+}
+
+#div16 {
+  height:3.95%;
+  width: 5.85%;
+  position: absolute;
+  bottom: 32.1%;
+  right: 35.3%;
+}
+
+#div17 {
+  position: absolute;
+  bottom: 19%;
+  right: 38%;
+}
+
+#div18 {
+  position: absolute;
+  bottom: 19%;
+  right: 21.5%;
+}
+
+#div19 {
+  position: absolute;
+  bottom: 11.2%;
+  right: 38%;
+}
+
+#div20 {
+  position: absolute;
+  bottom: 11.2%;
+  right: 21.5%;
+}
+
+#div21 {
+  position: absolute;
+  bottom: 2%;
+  right: 30%;
+}
+
+#div22 {
+  height:3.95%;
+  width: 5.85%;
+  position: absolute;
+  bottom: 19.8%;
+  right: 9.5%;
+}
+
+#div23 {
+  height:3.95%;
+  width: 5.85%;
+  position: absolute;
+  bottom: 85.6%;
+  right: 34.05%;
+}
+
+.largeBox {
+  font-size: 1.5vw;
+  font-weight: bold;
+}
+
+.mediumBox {
+  font-size: 1.2vw;
+  font-weight: bold;
+}
+
+.smallBox {
+  width:2.5%;
+  height:3.05%;
+  font-size: 0.8vw;
+  font-weight: bold;
+}
+
+.open {
+  background-color: rgb(137, 254, 147);
+}
+
+.closed {
+  background-color: rgb(255, 127, 127);
+}

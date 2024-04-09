@@ -1,0 +1,52 @@
+[
+    {
+        "name": "S1",
+        "type": "solenoid",
+        "typeOptions": {},
+        "initialPosition": {
+            "x": 0,
+            "y": 0,
+            "w": 2,
+            "h": 2,
+            "static": false
+        }
+    },
+    {
+        "name": "S2",
+        "type": "solenoid",
+        "typeOptions": {
+            "inline": true
+        },
+        "initialPosition": {
+            "x": 0,
+            "y": 2,
+            "w": 4,
+            "h": 1,
+            "static": false
+        }
+    },
+    {
+        "name": "Disco!",
+        "type": "disco",
+        "typeOptions": {},
+        "initialPosition": {
+            "x": 2,
+            "y": 2,
+            "w": 2,
+            "h": 2,
+            "static": false
+        }
+    },
+    {
+        "name": "CLI",
+        "type": "cli",
+        "typeOptions": {},
+        "initialPosition": {
+            "x": 6,
+            "y": 0,
+            "w": 4,
+            "h": 4,
+            "static": false
+        }
+    }
+]
